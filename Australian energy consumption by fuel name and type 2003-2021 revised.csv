@@ -1,0 +1,153 @@
+,Year,Fuel Name,Type,Consumption of fuel (PJ)
+0,2003,Black coal,Fossil Fuel,1428.0
+1,2003,Brown coal,Fossil Fuel,699.1
+2,2003,Liquid/gas biofuels,Renewable,11.2
+3,2003,"Wood, woodwaste",Renewable,105.4
+4,2003,Bagasse,Renewable,95.1
+5,2003,Refinery input,Fossil Fuel,1629.5
+6,2003,Natural gas,Fossil Fuel,949.8
+7,2003,Solar hotwater,Renewable,2.8
+8,2004,Black coal,Fossil Fuel,1510.2
+9,2004,Brown coal,Fossil Fuel,714.6
+10,2004,Liquid/gas biofuels,Renewable,10.6
+11,2004,"Wood, woodwaste",Renewable,103.2
+12,2004,Bagasse,Renewable,101.1
+13,2004,Refinery input,Fossil Fuel,1531.0
+14,2004,Natural gas,Fossil Fuel,981.9
+15,2004,Solar hotwater,Renewable,2.6
+16,2005,Black coal,Fossil Fuel,1554.4
+17,2005,Brown coal,Fossil Fuel,711.7
+18,2005,Liquid/gas biofuels,Renewable,9.2
+19,2005,"Wood, woodwaste",Renewable,100.4
+20,2005,Bagasse,Renewable,108.3
+21,2005,Refinery input,Fossil Fuel,1543.7
+22,2005,Natural gas,Fossil Fuel,1004.4
+23,2005,Solar hotwater,Renewable,2.6
+24,2006,Black coal,Fossil Fuel,1576.4
+25,2006,Brown coal,Fossil Fuel,725.1
+26,2006,Liquid/gas biofuels,Renewable,9.9
+27,2006,"Wood, woodwaste",Renewable,98.9
+28,2006,Bagasse,Renewable,109.1
+29,2006,Refinery input,Fossil Fuel,1409.2
+30,2006,Natural gas,Fossil Fuel,1008.9
+31,2006,Solar hotwater,Renewable,2.4
+32,2007,Black coal,Fossil Fuel,1601.9
+33,2007,Brown coal,Fossil Fuel,721.9
+34,2007,Liquid/gas biofuels,Renewable,10.7
+35,2007,"Wood, woodwaste",Renewable,98.7
+36,2007,Bagasse,Renewable,110.8
+37,2007,Refinery input,Fossil Fuel,1505.7
+38,2007,Natural gas,Fossil Fuel,1138.7
+39,2007,Solar hotwater,Renewable,6.0
+40,2008,Black coal,Fossil Fuel,1581.2
+41,2008,Brown coal,Fossil Fuel,725.1
+42,2008,Liquid/gas biofuels,Renewable,15.2
+43,2008,"Wood, woodwaste",Renewable,98.7
+44,2008,Bagasse,Renewable,110.8
+45,2008,Refinery input,Fossil Fuel,1464.6
+46,2008,Natural gas,Fossil Fuel,1175.7
+47,2008,Solar hotwater,Renewable,6.7
+48,2009,Black coal,Fossil Fuel,1600.8
+49,2009,Brown coal,Fossil Fuel,749.7
+50,2009,Liquid/gas biofuels,Renewable,19.7
+51,2009,"Wood, woodwaste",Renewable,89.5
+52,2009,Bagasse,Renewable,65.4
+53,2009,Refinery input,Fossil Fuel,1480.7
+54,2009,Natural gas,Fossil Fuel,1259.7
+55,2009,Solar hotwater,Renewable,8.2
+56,2010,Black coal,Fossil Fuel,1488.3
+57,2010,Brown coal,Fossil Fuel,742.0
+58,2010,Liquid/gas biofuels,Renewable,22.5
+59,2010,"Wood, woodwaste",Renewable,87.9
+60,2010,Bagasse,Renewable,93.3
+61,2010,Refinery input,Fossil Fuel,1437.9
+62,2010,Natural gas,Fossil Fuel,1264.7
+63,2010,Solar hotwater,Renewable,10.5
+64,2011,Black coal,Fossil Fuel,1402.7
+65,2011,Brown coal,Fossil Fuel,728.2
+66,2011,Liquid/gas biofuels,Renewable,26.6
+67,2011,"Wood, woodwaste",Renewable,85.1
+68,2011,Bagasse,Renewable,83.3
+69,2011,Refinery input,Fossil Fuel,1632.8
+70,2011,Natural gas,Fossil Fuel,1281.4
+71,2011,Solar hotwater,Renewable,11.7
+72,2012,Black coal,Fossil Fuel,1352.5
+73,2012,Brown coal,Fossil Fuel,739.3
+74,2012,Liquid/gas biofuels,Renewable,27.9
+75,2012,"Wood, woodwaste",Renewable,83.7
+76,2012,Bagasse,Renewable,84.9
+77,2012,Refinery input,Fossil Fuel,1557.5
+78,2012,Natural gas,Fossil Fuel,1345.7
+79,2012,Solar hotwater,Renewable,12.4
+80,2013,Black coal,Fossil Fuel,1312.0
+81,2013,Brown coal,Fossil Fuel,645.7
+82,2013,Liquid/gas biofuels,Renewable,26.2
+83,2013,"Wood, woodwaste",Renewable,91.1
+84,2013,Bagasse,Renewable,94.9
+85,2013,Refinery input,Fossil Fuel,1551.5
+86,2013,Natural gas,Fossil Fuel,1380.5
+87,2013,Solar hotwater,Renewable,13.1
+88,2014,Black coal,Fossil Fuel,1240.1
+89,2014,Brown coal,Fossil Fuel,627.8
+90,2014,Liquid/gas biofuels,Renewable,29.0
+91,2014,"Wood, woodwaste",Renewable,92.7
+92,2014,Bagasse,Renewable,90.2
+93,2014,Refinery input,Fossil Fuel,1450.2
+94,2014,Natural gas,Fossil Fuel,1386.7
+95,2014,Solar hotwater,Renewable,13.2
+96,2015,Black coal,Fossil Fuel,1251.8
+97,2015,Brown coal,Fossil Fuel,669.1
+98,2015,Liquid/gas biofuels,Renewable,27.8
+99,2015,"Wood, woodwaste",Renewable,92.5
+100,2015,Bagasse,Renewable,102.9
+101,2015,Refinery input,Fossil Fuel,1265.6
+102,2015,Natural gas,Fossil Fuel,1409.1
+103,2015,Solar hotwater,Renewable,14.8
+104,2016,Black coal,Fossil Fuel,1325.7
+105,2016,Brown coal,Fossil Fuel,642.9
+106,2016,Liquid/gas biofuels,Renewable,23.0
+107,2016,"Wood, woodwaste",Renewable,96.4
+108,2016,Bagasse,Renewable,102.2
+109,2016,Refinery input,Fossil Fuel,1105.7
+110,2016,Natural gas,Fossil Fuel,1442.5
+111,2016,Solar hotwater,Renewable,14.9
+112,2017,Black coal,Fossil Fuel,1365.2
+113,2017,Brown coal,Fossil Fuel,576.3
+114,2017,Liquid/gas biofuels,Renewable,22.1
+115,2017,"Wood, woodwaste",Renewable,97.9
+116,2017,Bagasse,Renewable,110.3
+117,2017,Refinery input,Fossil Fuel,1073.1
+118,2017,Natural gas,Fossil Fuel,1481.1
+119,2017,Solar hotwater,Renewable,15.8
+120,2018,Black coal,Fossil Fuel,1389.0
+121,2018,Brown coal,Fossil Fuel,466.8
+122,2018,Liquid/gas biofuels,Renewable,23.3
+123,2018,"Wood, woodwaste",Renewable,94.2
+124,2018,Bagasse,Renewable,100.2
+125,2018,Refinery input,Fossil Fuel,1133.6
+126,2018,Natural gas,Fossil Fuel,1538.6
+127,2018,Solar hotwater,Renewable,16.7
+128,2019,Black coal,Fossil Fuel,1363.0
+129,2019,Brown coal,Fossil Fuel,443.3
+130,2019,Liquid/gas biofuels,Renewable,23.7
+131,2019,"Wood, woodwaste",Renewable,92.8
+132,2019,Bagasse,Renewable,91.3
+133,2019,Refinery input,Fossil Fuel,1121.2
+134,2019,Natural gas,Fossil Fuel,1566.6
+135,2019,Solar hotwater,Renewable,17.6
+136,2020,Black coal,Fossil Fuel,1294.1
+137,2020,Brown coal,Fossil Fuel,422.7
+138,2020,Liquid/gas biofuels,Renewable,23.3
+139,2020,"Wood, woodwaste",Renewable,89.5
+140,2020,Bagasse,Renewable,83.8
+141,2020,Refinery input,Fossil Fuel,1010.2
+142,2020,Natural gas,Fossil Fuel,1628.8
+143,2020,Solar hotwater,Renewable,18.5
+144,2021,Black coal,Fossil Fuel,1243.4
+145,2021,Brown coal,Fossil Fuel,427.1
+146,2021,Liquid/gas biofuels,Renewable,24.1
+147,2021,"Wood, woodwaste",Renewable,87.8
+148,2021,Bagasse,Renewable,88.0
+149,2021,Refinery input,Fossil Fuel,848.1
+150,2021,Natural gas,Fossil Fuel,1568.2
+151,2021,Solar hotwater,Renewable,19.7
