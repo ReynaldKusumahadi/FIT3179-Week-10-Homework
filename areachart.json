@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 600, "height": 400,
+    "data": {"url": "https://raw.githubusercontent.com/ReynaldKusumahadi/FIT3179-Week-10-Homework/main/Australian%20energy%20consumption%20by%20fuel%20name%20and%20type%202003-2021%20revised.csv"},
+    "title": "Australian Energy Consumption by detailed fuel type (PJ) in the period 2003-2021",
+    "params": [{"name": "fuel_type_highlight", "bind": {"input": "select", "options": [null, "Fossil Fuel", "Renewable"], "labels": ["Show All", "Fossil Fuel", "Renewable"], "name": "Select Fuel Type"}}],
+    "transform": [{"filter": "fuel_type_highlight == null || datum.Type == fuel_type_highlight"}],
+    "layer": [{"mark": "area",
+    "encoding": {
+      "x": {
+        "timeUnit": "year", "field": "Year",
+        "axis": {"format": "%Y"}
+      },
+      "y": {
+        "aggregate": "sum", "field": "Consumption of fuel (PJ)"
+      },
+      "color": {
+        "field": "Fuel Name",
+        "type": "nominal",
+        "scale": {"domain": ["Bagasse", "Black coal", "Brown coal", "Liquid/gas biofuels", "Natural gas", "Refinery input", "Solar hotwater", "Wood, woodwaste"], "range": ["#7fc97f", "#000000", "#bf5b17", "#beaed4", "#fdc086", "#ffff99", "#386cb0", "#f0027f"]}
+      },
+      "tooltip": [{"field": "Year", "type": "temporal","format": "%Y"},{"field": "Fuel Name", "type": "nominal"}, {"field": "Consumption of fuel (PJ)", "type": "quantitative", "format": ","}, {"field": ""}]
+    }},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 0, "fontSize": 20, "fontStyle":"bold","text": "Note:"}},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 50, "fontSize": 15, "fontStyle":"bold", "text": "List of Renewables:"}},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 65, "text": "Bagasse"}},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 80, "text": "Liquid/gas Biofuels"}},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 95, "text": "Solar hotwater"}},  
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 110, "text": "Wood, woodwaste"}},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 160, "fontSize": 15, "fontStyle":"bold", "text": "List of Fossil Fuels:"}},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 175, "text": "Black coal"}},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 190, "text": "Brown coal"}},
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 205, "text": "Natural gas"}},  
+    {"mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": 450, "dy": 220, "text": "Refinery input"}}]
+  }
